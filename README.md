@@ -51,7 +51,8 @@ Loan defaults are a major challenge for financial institutions. This project ana
 
 ### Executive Dashboard
 
-> Replace this image with your dashboard screenshot.
+<img width="1494" height="749" alt="image" src="https://github.com/user-attachments/assets/ed3cd794-377b-45c9-8af0-f70e8b7a8a16" />
+
 
 <p align="center">
 <img src="images/dashboard.png" width="900">
