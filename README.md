@@ -105,7 +105,7 @@ loan-default-risk-analysis
 
 ## 📊 Tableau Dashboard
 
-🔗 Add your Tableau Public dashboard link here.
+🔗 https://public.tableau.com/app/profile/ritik.singh6294/viz/LoanPortfolioHealthRepaymentPerformanceAnalysis/Dashboard1
 
 ---
 
